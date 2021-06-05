@@ -24,3 +24,7 @@ if __name__ == '__main__':
 # esto es un comentario
 
 # otro comentario
+
+
+def broken():
+    return True
